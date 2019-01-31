@@ -6,7 +6,7 @@ import java.util.Scanner;
 // characters, their spells/weapons and different fun facts about them, all written in the voice of
 // my own character Keros.
 
-// CTRL + SHIFT + F : to format code
+// CTRL + SHIFT + F : to format code 
 
 public class Main {
 
