@@ -18,6 +18,5 @@ public class Main {
     // Rule: any time you go from numbers to string you have to clear out the input string
 
 
-
   }
 }
