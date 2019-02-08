@@ -12,10 +12,13 @@ import java.util.Scanner;
 // Rule: any time you go from numbers to string you have to clear out the input string
 
 public class Main {
-
+  // this is a header
+  // public is an access mod
+  // void is the return type, means this method doesn't return a value
+  // method names should be in lowerCamelCase and be named with a verb
+  // 
   public static void main(String[] args) {
-    // TODO Auto-generated method stub
-
+     
     // List & description of Java built-in data types:
     // Byte: 8 bit, min of -127 to max 127 value, useful for saving memory into large arrays
 
@@ -59,11 +62,10 @@ public class Main {
     System.out.println("\nPlease input your name ");
 
     // Using this to get someone's name and input it to the next line
-
     Scanner name = new Scanner(System.in);
     String yourName = name.next();
     name.close();
-
+    
     System.out.println("Welcome " + yourName + " to the first year class."
         + " In a 2 days we will be having placement tests to see what class you will be put in.");
 
@@ -73,26 +75,21 @@ public class Main {
     System.out.println("You have 32 hours, after taking out 8 hours each day for a full rest. "
         + "What would you like to do first: 1. Study, 2. buy supplies, or 3. get to know your teammates?" + "Please input a numbered choice.");
     
-    int sample1 = 4;
-    int sample2 = 6;
+   // int sample1 = 4;
+   // int sample2 = 6;
     
-    System.out.println(sample1 > sample2);
+   // System.out.println(sample1 > sample2);
     
-    double itsADecimal = 150.23;
+   // double itsADecimal = 150.23;
     
-    System.out.println(itsADecimal);
+   //System.out.println(itsADecimal);
     
-    boolean myTimeManagementIsAwful = true;
-    boolean iFeelGreat = false;
+   // boolean myTimeManagementIsAwful = true;
+   // boolean iFeelGreat = false;
     
-    System.out.println(myTimeManagementIsAwful);
-    System.out.println(iFeelGreat);
+   //  System.out.println(myTimeManagementIsAwful);
+   //  System.out.println(iFeelGreat);
 
-    //Scanner activity = new Scanner(System.in);
-   // int pickYourPoison = activity.nextInt();
-   // activity.close();
-    
-   // System.out.println(pickYourPoison < 3);
     
     // If Studying is chosen: will give 2 options
     
@@ -100,7 +97,6 @@ public class Main {
     // Option 1: Takes 12 hours, will give you advantage in ranged spell attacks 
     
     // Option 2: Takes 6 hours, will give you advantage in investigation checks
-    
   
   }
 }
