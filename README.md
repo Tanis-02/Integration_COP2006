@@ -1,14 +1,14 @@
 # Integration_COP2006
 PSI 1
-	-Add your name as a comment at top of every file
+	-Add your name as a comment at top of every file [In every Class]
 ********************************************************************************************************************
-	-Add a description of the program as a comment at top
+	-Add a description of the program as a comment at top [In Class named Main]
 
 ********************************************************************************************************************
-	-Add a list and description of Java built-in data types within the user interface or in comments
+	-Add a list and description of Java built-in data types within the user interface or in comments [In class named Reuirments]
 
 ********************************************************************************************************************
-	-Add a greeting / introduction to the user
+	-Add a greeting / introduction to the user [In Class named Main]
 
 ********************************************************************************************************************
 	-Use a boolean variable with an appropriate name  (singular noun, lowerCamelCase)
