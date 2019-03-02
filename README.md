@@ -39,40 +39,40 @@ PSI 1
 ********************************************************************************************************************
 PSI 2
 ********************************************************************************************************************
-	-Create a method with arguments and return values
+	-Create a method with arguments and return values [In Class named Method]
 ********************************************************************************************************************
-	-Identify a method call and argument in comments
+	-Identify a method call and argument in comments [In Class named Main]
 ********************************************************************************************************************
 	-Identify a header and parameter in comments [In Class named Main]
 ********************************************************************************************************************
 	-Use the Random class [In Class named Dice] 
 ********************************************************************************************************************
-	-Use the Math class
+	-Use the Math class [In Class named Requirment]
 ********************************************************************************************************************
-	-Create if/else constructs
+	-Create if/else constructs [In Class named Main]
 ********************************************************************************************************************
 	-Create ternary constructs [In Class named Requirment]
 ********************************************************************************************************************
-	-Use a switch statement
+	-Use a switch statement [In Class named Main]
 ********************************************************************************************************************
 	-Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with
 	 objects
 ********************************************************************************************************************
-	-Use +, -, *, /, %, ++, --, += 
+	-Use +, -, *, /, %, ++, --, +=  [In Class named Requirments]
 ********************************************************************************************************************
-	-Use relational operators
+	-Use relational operators [In Class named Requirment]
 ********************************************************************************************************************
-	-Use conditional operators
+	-Use conditional operators [In Class named Requirment]
 ********************************************************************************************************************
-	-Describe operator precedence as a comment
+	-Describe operator precedence as a comment [In Class named Requirment]
 ********************************************************************************************************************
-	-Create and use while loops
+	-Create and use while loops [In Class named Requirment]
 ********************************************************************************************************************
-	-Create and use for loops
+	-Create and use for loops [In Class named Requirment]
 ********************************************************************************************************************
-	-Create and use do/while loops
+	-Create and use do/while loops [In Class named Requirment]
 ********************************************************************************************************************
-	-Use break in a loop with a comment describing what it does
+	-Use break in a loop with a comment describing what it does [In Class named Requirment]
 ********************************************************************************************************************
-	-Use continue in a loop with a comment describing what it does
+	-Use continue in a loop with a comment describing what it does [In Class named Requirment]
 ********************************************************************************************************************
