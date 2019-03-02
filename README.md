@@ -11,31 +11,31 @@ PSI 1
 	-Add a greeting / introduction to the user [In Class named Main]
 
 ********************************************************************************************************************
-	-Use a boolean variable with an appropriate name  (singular noun, lowerCamelCase)
+	-Use a boolean variable with an appropriate name  (singular noun, lowerCamelCase) [In Class named Requirments]
 
 ********************************************************************************************************************
-	-Use an int variable with an appropriate name (singular noun, lowerCamelCase)
+	-Use an int variable with an appropriate name (singular noun, lowerCamelCase) [In Class named Dice]
 
 ********************************************************************************************************************
-	-Use an double variable with an appropriate name (singular noun, lowerCamelCase)
+	-Use an double variable with an appropriate name (singular noun, lowerCamelCase) [In Class named Requirments]
 
 ********************************************************************************************************************
-	-Use a String object with an appropriate name (singular noun, lowerCamelCase)
+	-Use a String object with an appropriate name (singular noun, lowerCamelCase) [In Class named Main]
 
 ********************************************************************************************************************
-	-Define (in English) the term "variable" as it relates to computer programming in a comment or the user interface
+	-Define (in English) the term "variable" as it relates to computer programming in a comment or the user interface [In Class named Requirments]
 
 ********************************************************************************************************************
-	-Define (in English) the term "scope" as it relates to computer programming in a comment or the user interface
+	-Define (in English) the term "scope" as it relates to computer programming in a comment or the user interface [In Class named Requirments]
 
 ********************************************************************************************************************
-	-Use final with a variable and describe what it means in a comment
+	-Use final with a variable and describe what it means in a comment [In Class named Dice]
 
 ********************************************************************************************************************
 	-Use casting and describe what it means in a comment
 
 ********************************************************************************************************************
-	-Format strings using escape sequences
+	-Format strings using escape sequences [In Class named Main]
 ********************************************************************************************************************
 PSI 2
 ********************************************************************************************************************
@@ -43,15 +43,15 @@ PSI 2
 ********************************************************************************************************************
 	-Identify a method call and argument in comments
 ********************************************************************************************************************
-	-Identify a header and parameter in comments
+	-Identify a header and parameter in comments [In Class named Main]
 ********************************************************************************************************************
-	-Use the Random class
+	-Use the Random class [In Class named Dice] 
 ********************************************************************************************************************
 	-Use the Math class
 ********************************************************************************************************************
 	-Create if/else constructs
 ********************************************************************************************************************
-	-Create ternary constructs
+	-Create ternary constructs [In Class named Requirment]
 ********************************************************************************************************************
 	-Use a switch statement
 ********************************************************************************************************************
